@@ -1,2 +1,2 @@
-# github-gth6e3bm
+# publichouse
 Repository created by Bolt to GitHub extension
